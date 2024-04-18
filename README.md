@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Ravenous: Yelp Search API
+
+This project provides a user-friendly API for searching restaurants using the Yelp API, building upon the Codecademy Ravenous project. It integrates seamlessly with your front-end application to empower users with location-based restaurant discovery powered by Yelp's rich data.
+
+### Features:
+
+Restaurant Search: Retrieve restaurants based on user-provided search terms and location.
+Sorting Options: Offer flexibility by allowing users to sort results by "best match," "highest rated," or other available Yelp sorting criteria.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
